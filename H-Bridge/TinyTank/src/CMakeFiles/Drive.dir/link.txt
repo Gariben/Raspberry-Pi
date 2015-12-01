@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Drive.dir/main.cpp.o  -o Drive -rdynamic -L/home/pi/projects/TinyTank/WiiC/build/wiicpp -L/home/pi/projects/TinyTank/WiiC/build/wiic -lwiicpp -lwiic -lwiringPi -Wl,-rpath,/home/pi/projects/TinyTank/WiiC/build/wiicpp:/home/pi/projects/TinyTank/WiiC/build/wiic 
