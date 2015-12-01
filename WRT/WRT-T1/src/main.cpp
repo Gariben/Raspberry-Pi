@@ -15,9 +15,10 @@ External Libraries: WiiC, WiringPi
 Hardwares: Raspberry Pi, Wiimote/BlueTooth, GPIO/H-bridge
 
 Project information can be found at:
+http://leibeckj.blogspot.com/2015/11/wrt-t1-wireless-raspberry-pi-tank.html
 
 Repository can be found at:
-
+https://github.com/Gariben/Raspberry-Pi/tree/master/WRT/WRT-T1
 
 =============================================================================
 */
