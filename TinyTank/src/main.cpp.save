@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <wiicpp.h>
+#include <wiringPi.h>
+
+using namespace std;
+
+int main(){
+
+	CWii wii;
+	std::vector<CWiimote>::iterator i;
+
+	std::vector<CWiimote>& wiimotes =
+
+
+
+	return 0;
+}
